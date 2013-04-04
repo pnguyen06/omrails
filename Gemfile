@@ -8,6 +8,7 @@ gem "paperclip", "~> 3.0"
 gem 'sass-rails',   '~> 3.2.3'
 gem 'bootstrap-sass', '~> 2.3.1.0'
 gem 'aws-sdk'
+gem 'faker'
 
 group :production do
 	gem 'pg'
