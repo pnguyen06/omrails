@@ -9,6 +9,8 @@ gem 'sass-rails',   '~> 3.2.3'
 gem 'bootstrap-sass', '~> 2.3.1.0'
 gem 'aws-sdk'
 gem 'faker'
+gem 'will_paginate'
+gem 'bootstrap-will_paginate'
 
 group :production do
 	gem 'pg'
